@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cab6480.css",
-    "main.js": "/static/js/main.76bab026.js",
+    "main.css": "/static/css/main.7780e7d4.css",
+    "main.js": "/static/js/main.b61ff40c.js",
     "static/js/27.f0940670.chunk.js": "/static/js/27.f0940670.chunk.js",
     "static/media/LineIconsPro Regular.svg": "/static/media/LineIconsPro Regular.365c5638faee08401a4e.svg",
     "static/media/LineIconsPro Light.svg": "/static/media/LineIconsPro Light.c1c0922d1b6621d6c9ce.svg",
@@ -51,7 +51,7 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.71af4f8966e254d28324.svg"
   },
   "entrypoints": [
-    "static/css/main.9cab6480.css",
-    "static/js/main.76bab026.js"
+    "static/css/main.7780e7d4.css",
+    "static/js/main.b61ff40c.js"
   ]
 }
