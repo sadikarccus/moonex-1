@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c8e9be5.css",
-    "main.js": "/static/js/main.08ed2f5d.js",
+    "main.css": "/static/css/main.af5406c7.css",
+    "main.js": "/static/js/main.a115f438.js",
     "static/js/27.c93531d6.chunk.js": "/static/js/27.c93531d6.chunk.js",
     "static/media/LineIconsPro Regular.svg": "/static/media/LineIconsPro Regular.365c5638faee08401a4e.svg",
     "static/media/LineIconsPro Light.svg": "/static/media/LineIconsPro Light.c1c0922d1b6621d6c9ce.svg",
@@ -9,14 +9,18 @@
     "static/media/main-slide-2.png": "/static/media/main-slide-2.cc969d3d27e8a11c0aaa.png",
     "static/media/main-slide-1.png": "/static/media/main-slide-1.0dc76c143f5125517901.png",
     "static/media/main-image.png": "/static/media/main-image.6bc0c423b698a2c706b3.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/about-image.png": "/static/media/about-image.a1245c742c74c8b632a3.png",
     "static/media/LineIconsPro Regular.eot": "/static/media/LineIconsPro Regular.50db7620e94a5f1584bc.eot",
     "static/media/LineIconsPro Regular.ttf": "/static/media/LineIconsPro Regular.2d96c6c3c190448e6fe5.ttf",
     "static/media/Socicon.svg?484r1f": "/static/media/Socicon.620cd8c93935433c4e69.svg",
     "static/media/LineIconsPro Light.eot": "/static/media/LineIconsPro Light.6041ed88b42b479d1df7.eot",
     "static/media/LineIconsPro Light.ttf": "/static/media/LineIconsPro Light.c13d2ac31c6dc1bb6fd2.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/LineIconsPro Regular.woff": "/static/media/LineIconsPro Regular.f306feb81ffdb8a2ee4d.woff",
     "static/media/LineIconsPro Light.woff": "/static/media/LineIconsPro Light.cb1128f9e49ee1ae2b26.woff",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/Socicon.eot?484r1f": "/static/media/Socicon.5e166614f1c831694816.eot",
     "static/media/Socicon.woff?484r1f": "/static/media/Socicon.9075c233656883ebc65a.woff",
     "static/media/Socicon.ttf?484r1f": "/static/media/Socicon.48b2d1e286d6b8d6ebef.ttf",
@@ -25,6 +29,7 @@
     "static/media/about-us-bubble.png": "/static/media/about-us-bubble.ae4c25d16169f58079d3.png",
     "static/media/home-modern-bubble.png": "/static/media/home-modern-bubble.ae4c25d16169f58079d3.png",
     "static/media/home-studio-bubble-1.png": "/static/media/home-studio-bubble-1.d1675a1fe90527b155e9.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
     "static/media/Socicon.woff2?484r1f": "/static/media/Socicon.d02985133d7e9e09bde4.woff2",
     "static/media/home-studio-bubble-2.png": "/static/media/home-studio-bubble-2.c8eda19e00bbddc0a282.png",
     "static/media/footer-bubble.png": "/static/media/footer-bubble.d48fd7a0b185f26e4b45.png",
@@ -39,10 +44,13 @@
     "static/media/CerebriSans-Light.woff2": "/static/media/CerebriSans-Light.6a8336d81253f2531c61.woff2",
     "static/media/CerebriSans-Bold.woff2": "/static/media/CerebriSans-Bold.0635dfa17bfce48dda43.woff2",
     "static/media/home-trending-bubbles.png": "/static/media/home-trending-bubbles.85b05feac3b903094e42.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
     "static/media/bubble-2.png": "/static/media/bubble-2.4793357088db26324b0f.png",
     "static/media/about-me-bubble-3.png": "/static/media/about-me-bubble-3.462001017f0324a870e7.png",
     "static/media/home-freelancer-bubble-2.png": "/static/media/home-freelancer-bubble-2.462001017f0324a870e7.png",
     "static/media/home-agency-symbol.png": "/static/media/home-agency-symbol.b222049b3e3633c17149.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -51,7 +59,7 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.71af4f8966e254d28324.svg"
   },
   "entrypoints": [
-    "static/css/main.9c8e9be5.css",
-    "static/js/main.08ed2f5d.js"
+    "static/css/main.af5406c7.css",
+    "static/js/main.a115f438.js"
   ]
 }
